@@ -1,0 +1,1413 @@
+commit dac68462dd51d717889c5b03b0a40656b93828e6
+Author: Elaine Hwang <huangelaine310@dhcp-clara-3538.eduroam.cornell.edu>
+Date:   Tue May 15 15:15:22 2018 -0400
+
+    ai comments
+
+commit 2dd3f6600dfc356816c84bc785fcb20b4a4cfdbe
+Author: Elaine Hwang <huangelaine310@dhcp-clara-3538.eduroam.cornell.edu>
+Date:   Tue May 15 14:59:42 2018 -0400
+
+    gamestate comments
+
+commit 43708eebfe6d449c91316268ef1ce7234db19b24
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 14:40:00 2018 -0400
+
+    centered things,
+    
+    6 max players instead of 7
+
+commit 24c7b349402d21e3a16ff6c7da4010b10a06ff83
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 13:56:47 2018 -0400
+
+    centered menu text
+    
+    centered menu buttons
+
+commit 8183baeefb977c38795122bc4b1efd02eb2be5a3
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 12:04:48 2018 -0400
+
+    comments and tweaks
+    
+    added comments and tweaked the message at the end of a round
+
+commit 17a5f6af9fe1365eac9c9d5bf050209a00e1cb9f
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 10:35:42 2018 -0400
+
+    adds esc directions to menu screens
+
+commit 597788d68a51c39d9a05d29fe2f58c9a5cadb72b
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 09:24:15 2018 -0400
+
+    re-initializes players after each round to reset select fields
+
+commit 2e52f4a06dad3ae0d7b559cb2a2b7247c82b51e8
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 08:38:05 2018 -0400
+
+    update README
+
+commit 1026cb46d3a7ab495dca64dd5f900349260bd9e9
+Author: vagrant <vagrant@vm3110-2018sp>
+Date:   Tue May 15 08:33:51 2018 -0400
+
+    added Notty to make check
+
+commit d2204c6761b14fb127ad37429c351ab3db967a45
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 05:54:02 2018 -0400
+
+    added menu
+    
+    added menu, limited names to 12 characters
+
+commit 22ff4d39b11a55d600ba53f78bae5525c788af58
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 04:23:18 2018 -0400
+
+    gitlog
+
+commit 4ea00fc407b72759abe8f3b3f53f1fa2a4ec4a19
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 04:19:37 2018 -0400
+
+    deleted make gui
+
+commit 28e8876d2751381bffd5fa3108ffe664032f049a
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 04:11:15 2018 -0400
+
+    thing
+    
+    makes raise default to 50
+
+commit 0a400e403905f1d72d63da53f784d3cd7d17a304
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 04:07:39 2018 -0400
+
+    update all in for players in end
+
+commit 40c8d974caba4434c9af21d0e36d67e674659573
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 03:52:32 2018 -0400
+
+    quick fixes
+    
+    for endround
+
+commit 56ecbcfc69c9be667f908b078680a281926df99e
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 03:50:05 2018 -0400
+
+    small tweaks
+    
+    adjusted for balance in raise
+
+commit 1c76b07eca7cb29a61f44489ec78d1a3a38a1c81
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 03:37:13 2018 -0400
+
+    fix for AI
+
+commit 211e73363420c10820a3784cc29fecc83e20d64a
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 03:34:02 2018 -0400
+
+    all in state true
+
+commit 08b5df1705d3446674b9f2849f67b58f34e4bb1e
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 03:25:25 2018 -0400
+
+    fixed infinite loop in next_dealer
+
+commit 7f9ac3f32369a02efcc44aebc7a9e2e59d779cc6
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 03:02:38 2018 -0400
+
+    raise bet fix
+
+commit 2d308fd8c288bd339f189cfe56f9614ec37b6ae9
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 02:35:03 2018 -0400
+
+    works but without 2 players
+
+commit 855bbe1c0d90f3593d0e11a6f12f9457d5e807e0
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 01:57:33 2018 -0400
+
+    reverted
+
+commit 974d0cab25cf91b4ef3dae4625214f6664121d38
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 01:53:34 2018 -0400
+
+    Revert "fixed so hands are cleared after each round"
+    
+    This reverts commit d6fec2a22972a65ea9970819cc53eeb736885bcf.
+
+commit 353774a7469830d10b25581e552cbe845f263dd0
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 01:41:38 2018 -0400
+
+    Revert "no overall winner but all-in works"
+    
+    This reverts commit 8985a61498fee64966fb93eee4c8121091fb0565.
+
+commit 4b34512a0ba28d4acfa90818658c49bfe6a205ab
+Merge: 9c4800c d6fec2a
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 01:30:51 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging all in player end
+
+commit 9c4800c62883e4793d13a28e1ef5b77ac917c533
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 01:30:46 2018 -0400
+
+    make player all in = false in end
+
+commit d6fec2a22972a65ea9970819cc53eeb736885bcf
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 01:26:29 2018 -0400
+
+    fixed so hands are cleared after each round
+
+commit 8985a61498fee64966fb93eee4c8121091fb0565
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 01:14:00 2018 -0400
+
+    no overall winner but all-in works
+
+commit 81aca5e1689553710ad3a5eda4f0f5e50de6c304
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 00:52:05 2018 -0400
+
+    fixed small round victory
+
+commit 945044737f93899e42f6c86924a22b12c7112e85
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 00:51:28 2018 -0400
+
+    allin fix
+
+commit 2a219380eca02bc9db0ced9a5cbc91b68adfb6c2
+Merge: 40c7a61 1117b74
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 00:42:57 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging all in
+
+commit 40c7a6188af2be37d1ed3d9ad10ea6cb5cf7d2e7
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Tue May 15 00:42:47 2018 -0400
+
+    fixed all in
+
+commit 1117b7487d749c56fe94d9f59e0b95c3ee4625a4
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 15 00:18:52 2018 -0400
+
+    dealer
+
+commit 166c3313d3d759c9ae2d59ed13220dcf9e833b69
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 00:13:33 2018 -0400
+
+    changes deal to players to only alive players
+
+commit 85f217fb62f43bb9cc821ee9925c76afdedb9d4c
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 15 00:03:37 2018 -0400
+
+    fixes so that eliminated players do not get dealt cards
+
+commit b0dc07448f142ba7f2d05085e04168d1e2797c66
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 23:55:12 2018 -0400
+
+    fix merge
+
+commit cc1fb32b9092de9834ca736b12a3e2b6c264c61a
+Merge: d9642b0 8284565
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Mon May 14 23:54:26 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit d9642b08a77eca25005c5d169eb2b95e7a615946
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Mon May 14 23:51:57 2018 -0400
+
+    tweaks
+
+commit 8284565d3204faafeeda9995bf223138a4382d32
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 23:51:20 2018 -0400
+
+    fixed merge
+
+commit 6d04533bea8775ec4cf390ea50ab445454a11fb4
+Merge: 1ab3e98 7a4b18c
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Mon May 14 23:49:10 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 1ab3e98e64c09bf31f515c3099935942b9215d9c
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Mon May 14 23:48:35 2018 -0400
+
+    update
+
+commit 7a4b18ccdc9c8bf2e72834beb1228879fd7e6bc5
+Merge: eecc988 fb77f4a
+Author: kf283 <kf283@cornell.edu>
+Date:   Mon May 14 23:45:14 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit eecc988870b85ed9ddb252163b8a86f9b5b17163
+Author: kf283 <kf283@cornell.edu>
+Date:   Mon May 14 23:44:50 2018 -0400
+
+    updates winners so that IDs are separated by commas. Updates README with relevant packages
+
+commit fb77f4ae26cff13365de4916fcd00adc48146da6
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 23:07:37 2018 -0400
+
+    check balance for raise in ai
+
+commit e16cd4a57580096b1ba0d00db54b733c0d64114f
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 22:29:58 2018 -0400
+
+    delete to_call in ai, and update gamestate so can't raise 0
+
+commit 4ed0e745c992ca2a1ffc5185dffc9b24dcf1ee26
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 22:25:41 2018 -0400
+
+    added to_call in gamestate
+
+commit d1abb22810bfd4f37864e0a14ed1be9916e0fb6d
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Mon May 14 20:31:49 2018 -0400
+
+    Update README.md
+
+commit 58fda0ad61974f2831056bbdec3a3f4e02e427c1
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Mon May 14 19:37:52 2018 -0400
+
+    Update README.md
+
+commit c1e1786c64a6d3d79f8342b28fcec5ab34789adc
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Mon May 14 05:04:59 2018 -0400
+
+    make file
+
+commit 9c9239a66e6c38b73a9bf2f2944d438a21e253dd
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Sun May 13 18:12:21 2018 -0400
+
+    tweaks
+
+commit cb2e4db2ec87b1f214606dca2588bed3b144bfce
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Sun May 13 18:02:46 2018 -0400
+
+    Update README.md
+
+commit c025422f24198163c88717b554ceb3a4b45e70b7
+Merge: cf11625 82c08ce
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Sun May 13 17:57:57 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit cf1162545cc91c56d64d5aa3b63539d63ff16789
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Sun May 13 17:53:14 2018 -0400
+
+    GUI
+
+commit 82c08ceff6a118762c5ab15c24bb60330176798c
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun May 13 17:23:16 2018 -0400
+
+    added exit prompt for game end
+
+commit b61272f6fcda0fe0048acd679c173756cbe54e91
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun May 13 16:38:16 2018 -0400
+
+    added win_state function
+
+commit c17a618a3fc130357fd7d6d93b0ba6faacbb849e
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun May 13 15:32:48 2018 -0400
+
+    fixed alive and order for new rounds
+
+commit 9d5d142b6db0a0327a0c66a8f6bcfed9e2899fab
+Merge: 0aaaccf 27aea21
+Author: kf283 <kf283@cornell.edu>
+Date:   Sat May 12 21:32:30 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 0aaaccfbc112e1c667c433a86b68195a5c75aa83
+Author: kf283 <kf283@cornell.edu>
+Date:   Sat May 12 21:32:13 2018 -0400
+
+    edits new game initialization
+
+commit 27aea21cbd7422bf327bdf09dfa3819442c2d607
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Sat May 12 01:40:33 2018 -0400
+
+    test
+
+commit 67e3a8e8697451e94e82b8699489d88b6b6e7b1d
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Sat May 12 01:08:55 2018 -0400
+
+    fixed intList, changed print message in read commands
+
+commit 76a56f1c5debcd57ff466b877e843e6cdcc748da
+Merge: ce2de66 3eb2266
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Fri May 11 22:39:54 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging gamestate heads up changes with hard ai
+
+commit ce2de662f269cee1b853ffcfcf4d17388478d8db
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Fri May 11 22:39:44 2018 -0400
+
+    hard ai
+
+commit 3eb226616dec0fd7e5e2595725ae7e6797adb47d
+Author: kf283 <kf283@cornell.edu>
+Date:   Fri May 11 18:51:11 2018 -0400
+
+    does not allow for humans to call themselves AI
+
+commit 00ec8e9bc5f32fc793874e418d9d64c18b4abed4
+Author: kf283 <kf283@cornell.edu>
+Date:   Fri May 11 18:32:36 2018 -0400
+
+    updated so only AI game is not allowed
+
+commit dc1d08552e27714b0e0c24883a07a5abd465a0a4
+Author: kf283 <kf283@cornell.edu>
+Date:   Fri May 11 18:23:14 2018 -0400
+
+    updated heads up blinds
+
+commit b1f28022dd560a0549c9208f34dc0e493d1765f7
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2886.eduroam.cornell.edu>
+Date:   Thu May 10 04:13:19 2018 -0400
+
+    hard ai preflop
+
+commit a900b908324d9686978014c5821634d8c67c36b7
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:45:15 2018 -0400
+
+    fixed a small error
+
+commit 0af7da194e4ef4a0bb775ca65d33b13f2832354d
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:43:58 2018 -0400
+
+    update README
+
+commit f84ae3f73699703bffaccbb747ada435e9dabe4b
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:33:59 2018 -0400
+
+    fixing line breaksgit add --all
+
+commit 0c5b881d7617eeaf41ae0cf996ae2712ef9c1536
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:32:31 2018 -0400
+
+    update README
+
+commit 8088659d9d97d442028d110d04faee6c86de3a3d
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:30:38 2018 -0400
+
+    update README
+
+commit 3e4db2e57a3a80d82aaaf396b1f62f222f171744
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:22:58 2018 -0400
+
+    update README
+
+commit c628d2ade5e5f598198a5c5895e8aad5bc427aa1
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:20:18 2018 -0400
+
+    should work for two players?
+
+commit f736f52263ddb2b8876cc08bb5df580953f3b797
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 21:03:11 2018 -0400
+
+    finishehed AI integration
+
+commit 5684caa75239093abf966f48196c5bbc407fe027
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Tue May 8 20:27:57 2018 -0400
+
+    apparently merlin never updated
+
+commit 7786a019c483421e4a11888ed15789b96cf84853
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 16:30:04 2018 -0400
+
+    added code for initializing AI. Still does not work, will finish later
+
+commit b9a9e801d6680a8f2c4fdd0e5c6326d039f0927f
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 12:49:45 2018 -0400
+
+    formatted gamestate and player for AI. Still have to implement in main.
+
+commit 54a4b9f8aafba60ab42b305b2a24b1ff115fed33
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue May 8 11:28:43 2018 -0400
+
+    implemented easy AI
+
+commit ab169c0d259a25a547aae0d1b941cfa7d8c6b3e0
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Thu May 3 00:51:52 2018 -0400
+
+    prev bets, chips, etc. minor bug fixes
+
+commit cffc4cf8167fa9f683a6c2d5d3444eb933e04139
+Merge: f81e3af 59b5c22
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 22:55:02 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    gamestate stage update for end
+
+commit f81e3afb9475f38250e712aec923d123691240ae
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 22:54:55 2018 -0400
+
+    end stage update
+
+commit 59b5c22c79e0db1df101726b3f8a0fec909d70f8
+Author: kf283 <kf283@cornell.edu>
+Date:   Wed May 2 22:43:23 2018 -0400
+
+    tweaked end
+
+commit 9352876414dd2770fe532e66df932c24cc8d2cc0
+Author: kf283 <kf283@cornell.edu>
+Date:   Wed May 2 22:36:03 2018 -0400
+
+    fixed mutation of order in deal
+
+commit 7ab95f9a5fcd0f5c620c6c1bced6283bdfd48874
+Author: kf283 <kf283@cornell.edu>
+Date:   Wed May 2 20:44:21 2018 -0400
+
+    deleted garbage code from merge
+
+commit 80c55f54d3a48e69257f427db35abe933194f675
+Author: kf283 <kf283@cornell.edu>
+Date:   Wed May 2 19:34:05 2018 -0400
+
+    fixed deck
+
+commit 0335645a018ef9dae399cb75baa9df4bbf2b01eb
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 14:55:12 2018 -0400
+
+    fixed elaine's big mistake
+
+commit fce3e5d686b706982f0f59654627572de7c35e5d
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 05:19:29 2018 -0400
+
+    changes ace 1 to 14
+
+commit 2080a293cb067e265bf928e794f8fd2c006de9a0
+Merge: 199a0a9 a81eca5
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 05:16:56 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 199a0a949f4b48c29f044a0904c55d36e01d0b82
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 05:16:52 2018 -0400
+
+    finished all base test cases for calculate score's best_hand
+
+commit a81eca51adc59970ff546843af8a45ab96757409
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 04:21:39 2018 -0400
+
+    comments
+
+commit 6cfd0498bef6e64bdfe97ecbaabff9957b149f9b
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 04:06:59 2018 -0400
+
+    fixed tags
+
+commit 5dc3f8d3d5362d99b1b55169f8ef2cf08bcc9fea
+Merge: 54ce229 56447de
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 04:00:58 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging gamestate test with ai
+
+commit 54ce229cd7190214a26f3c731561f0a51c27bb8d
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 04:00:15 2018 -0400
+
+    heads up ai
+
+commit 56447decbf96044d2a45a1536a8b9f7efa9e8662
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Wed May 2 01:21:55 2018 -0400
+
+    merlin and _tag files
+
+commit 87748184ecc38d735e11a7281d1676437d61f6ed
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Wed May 2 00:40:14 2018 -0400
+
+    Delete index.html
+
+commit 6373b8e2769f317347483232f5d6c3f0931b9cac
+Merge: 4a53010 ddb8894
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 00:38:43 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+     Lines starting wfasdfasdfasdfasdfasdfth '#' will be ignored, and an empty message aborts
+
+commit 4a5301005090f80500679463f1cd54fb71c9a1eb
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Wed May 2 00:37:40 2018 -0400
+
+    many test cases for calculate score added up to high card and pair and helper functions
+
+commit ddb8894c3dd8122bf31260d4d8ecb0a6e9d54724
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Wed May 2 00:16:37 2018 -0400
+
+    added print queue for debugging purposes
+
+commit 594932bfb11c548d9099ce00d43f1ca56fca747e
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Tue May 1 21:45:19 2018 -0400
+
+    deleted open calc score
+
+commit e62d56055134eee354ad340695aa8192e1ffc99b
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Tue May 1 21:44:28 2018 -0400
+
+    fixed abstract problem. calc score moved to gamestate
+
+commit 4cd84fde9e4159c2b96f03557f3061b6ef6ab81b
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Mon Apr 30 01:45:34 2018 -0400
+
+    trying to fix abstract state problem, but not working
+
+commit 83f6e0f81622dcc076b4ba988c0c023fb8b2e29d
+Merge: bbe56b3 12a4ebb
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Mon Apr 30 01:39:41 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging gui with ai
+
+commit bbe56b32490706fa04358355b2a5a315cad3b360
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Mon Apr 30 01:39:27 2018 -0400
+
+    ai medium sort of done
+
+commit 12a4ebb52715c5e795d3f2c8d60e5d408dfd072f
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Mon Apr 30 00:32:03 2018 -0400
+
+    make GUI files
+    
+    beginning of GUI files
+
+commit 111a1992b45c195ca688b78e54f0f9da33806a52
+Merge: 10d8048 3b61c35
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 17:01:06 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 10d80489bd9f2d1a6b15b99aba2ab649538fc1ab
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 17:00:58 2018 -0400
+
+    finished implementing end'. Abstract type conflict.
+
+commit 3b61c35fd68d69a25aa02fd7a6a8480cc417c9c6
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sun Apr 29 16:35:27 2018 -0400
+
+    add checktypes.ml to git ignore
+
+commit 283b129f6447bb77e297d152b83dfa8e342ddb03
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 15:47:07 2018 -0400
+
+    called bet blinds and deal to players for initializing next round
+
+commit 34807ce6805c0193e35f21553b982cc977dfa5bf
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 15:43:06 2018 -0400
+
+    restored type abstraction
+
+commit b4ce6e387b36aece7055a83c5416dee5cfa3b923
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 15:40:39 2018 -0400
+
+    getting abstract type error...
+
+commit 7e70cf766e06ae1443b7dc40086d893138bb5532
+Merge: ef70fb5 501f160
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 14:54:46 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit ef70fb5a1209dfaac2d1318dba5b3976f69b06ca
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 14:54:05 2018 -0400
+
+    fixed blinds method
+
+commit 501f160c174215fb00ff54616c26f8764104927d
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 29 14:41:19 2018 -0400
+
+    formatting changes to calculate_score.ml
+
+commit d2154366a908d93dfefd2bb307d97121958f38e2
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 14:38:01 2018 -0400
+
+    calc score
+
+commit 57232e32a692f51d0c387e5cf762051342a7e9d5
+Merge: b0282e5 8cad18f
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 14:34:44 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging calc, gamestate with ai
+
+commit b0282e540cc0c739c1925b8b68e2be6b264a6f97
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 14:34:20 2018 -0400
+
+    ai
+
+commit 8cad18faf1aac845bd037c9565c2f764256f6552
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 29 14:33:10 2018 -0400
+
+    maxFive function added to calculate_score and findFourKind now calls trimList
+
+commit 8607096d5b2d65c0a1c99ef323ef4fbcd7554b72
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 12:24:53 2018 -0400
+
+    commented out current implementation of end' for later editing with small and big blinds
+
+commit 15affc19191070df3bbb3489402355826248c8c9
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 10:55:39 2018 -0400
+
+    added blinds
+
+commit 98afc9eb5db0d0f9accde36bc6a6b7afdf791e9d
+Merge: 31a2f2d aabd7e5
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 09:39:13 2018 -0400
+
+    merged changes
+
+commit 31a2f2dd3c54fb161f94c722bb5d570a79dc81ee
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 29 09:37:13 2018 -0400
+
+    added a blinds method
+
+commit aabd7e5d87a66deb0aa3a59cdfb40aa5ca1cd12c
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 05:43:44 2018 -0400
+
+    ai
+
+commit 1472c9315cb736d41ba4c7bba3eaec3264385ed9
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 04:17:07 2018 -0400
+
+    calc winner
+
+commit 644e0df8ebe558f6c4510d539dc75f779e41ff6e
+Merge: c31a608 c63e5da
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 00:52:50 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging calc and gamestate
+
+commit c31a60808338ade8741d5ff9ae06bd2abf97f225
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 00:52:48 2018 -0400
+
+    gamestate minor helper funcs
+
+commit c63e5daf8d876059a8e54632efea3b783214643d
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 29 00:52:34 2018 -0400
+
+    pushing calc score
+
+commit 8f1a8f14195365fc67895b097e1bae716f81f381
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 00:43:24 2018 -0400
+
+    calc error fix
+
+commit 8c109a91dd743f493de44450600296b22a40d336
+Merge: 6e30a16 8552c06
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 00:41:01 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging AI with calc score
+
+commit 6e30a16d4b8713a3b606399a0ee90ac640272807
+Author: Elaine Hwang <huangelaine310@dhcp-clara-5058.eduroam.cornell.edu>
+Date:   Sun Apr 29 00:40:56 2018 -0400
+
+    ai
+
+commit 8552c06807126d363ef0137b5504f835a012af66
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 29 00:40:24 2018 -0400
+
+    addimg cscore again
+
+commit 2cbb9a4e6a6cf412e3a550f604b0f558573000c3
+Merge: 513555c 53bda1e
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sat Apr 28 23:07:42 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 513555c0d085ba8bff639b24e15e1177215abc4d
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sat Apr 28 23:07:34 2018 -0400
+
+    changes to calculate score
+
+commit 53bda1e8e921fd032ac7816ea68f18bb17753174
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sat Apr 28 21:57:12 2018 -0400
+
+    ignore byte files
+
+commit bab13a97fbcb10cfe0e9d9d5f33c6fd68e6cb8a1
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sat Apr 28 21:55:10 2018 -0400
+
+    Delete main.byte
+
+commit 1b3cdb464139ed2bc7cc6b4c016c579677aa6076
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sat Apr 28 21:54:57 2018 -0400
+
+    Delete checktypes.byte
+
+commit 4aa0bbe5093c26828aa9ee57b89eea3192402660
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 16:18:37 2018 -0400
+
+    added random seed so gamestate doesn't always start the same
+
+commit c20589e3845aab4f1535143b42f3c8bcc4a509bb
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 15:28:36 2018 -0400
+
+    wrote comments for written helper functions in gamestate:
+
+commit 9555353e4544abccde4559db94850bccd7a8b563
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 15:19:45 2018 -0400
+
+    finished status
+
+commit 3c5dc5a6954bfcc000e90dad13a92a5a26947211
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 14:58:18 2018 -0400
+
+    finished game initialization. Working in status printout
+
+commit 36e6348c669d5a86e99c47600dcb32f60dc3a8a7
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 14:29:38 2018 -0400
+
+    base REPL working. Have to add manual and how to use
+
+commit 014249a45c247d8101d03623fdff38f59b579901
+Merge: 7c15be9 742af62
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 13:44:36 2018 -0400
+
+    merge commit
+
+commit 7c15be97bc000c45197a3dc8799fd991cc77ea3f
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 13:42:26 2018 -0400
+
+    merlin is being a bitch
+
+commit f8b84d1ff0391fdc2598c9eb6f72087f06b535f3
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 13:41:20 2018 -0400
+
+    added none and show to commands; added to_string for hands
+
+commit 742af62fe263209e6d278e9093214385447fee57
+Author: Elaine Hwang <huangelaine310@dhcp-ccc-7671.eduroam.cornell.edu>
+Date:   Thu Apr 26 13:10:18 2018 -0400
+
+    remove gui
+
+commit 4613310b71be6d2597cb3e965643f32ee0e624d1
+Merge: 1cd5c63 0065371
+Author: Elaine Hwang <huangelaine310@dhcp-ccc-7671.eduroam.cornell.edu>
+Date:   Thu Apr 26 13:08:50 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    shouldn't merge things?
+
+commit 1cd5c6363eef069f2b21c4787d235c54cdad5045
+Author: Elaine Hwang <huangelaine310@dhcp-ccc-7671.eduroam.cornell.edu>
+Date:   Thu Apr 26 13:05:37 2018 -0400
+
+    gui
+
+commit 0065371581173a08c239c715d26ef2b88b0807b8
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 13:03:39 2018 -0400
+
+    fixed calculate score module type check error
+
+commit f338de3df19c689dc032f21f43a5fe580565a3a4
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 12:58:45 2018 -0400
+
+    fixed so make check works
+
+commit e81bf8330f7d4dfcb9b8f95c565b8cc480369cf2
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 26 12:50:33 2018 -0400
+
+    implemented init state and init queue
+
+commit 31fa2bdd290f56c4ee45af835c49c1e41ede88a5
+Merge: 9a2ebce d75e602
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 15:07:51 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging gamestate
+
+commit 9a2ebce80bdedcc5789e7cde6cca34fbe8f1428b
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 15:07:43 2018 -0400
+
+    cal debug
+
+commit d75e60282bd39292dd81749543995258c425d190
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 14:33:54 2018 -0400
+
+    commented
+
+commit ffd3f71992c72ebdbba0c42187321a70c62f8dfa
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 14:33:13 2018 -0400
+
+    added new deck function
+
+commit 1963c4a320265c22b209895722c15f7bbe9e72fd
+Merge: 1535857 2c0865f
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 22 14:19:12 2018 -0400
+
+    erge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 153585742a5b93efb72fb4de021390eb04c0b696
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Sun Apr 22 14:15:07 2018 -0400
+
+    adding calcualte score with bugs
+
+commit 2c0865f2d88eab8c95e8d43aeab4b248febad905
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sun Apr 22 14:06:46 2018 -0400
+
+    Delete checktypes.ml
+
+commit 7c63daaf9d160ff082279e7153a95915982c9354
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sun Apr 22 14:06:31 2018 -0400
+
+    Delete checktypes.byte
+
+commit 4e39eca82a67ac8434a061c9599461818af58908
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sun Apr 22 14:06:13 2018 -0400
+
+    Update .gitignore
+
+commit 356e95805479e01c0570877ca3358b22e08f2a42
+Merge: f45af6c 554d9ff
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 14:04:19 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit f45af6c42455def1ebcd6e53b24c7cc4b168c749
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 14:04:09 2018 -0400
+
+    fixed order of public hand
+
+commit 554d9ffbaaed642e1ff30cb203ea89fe5ba6568d
+Merge: 7032525 35003d9
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 13:59:30 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merging minor changes with deal
+
+commit 7032525450716a9477b30efea127cf53e29deea3
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 13:59:25 2018 -0400
+
+    small changes to prev_bets
+
+commit 35003d9c6ac0e70365f9fbbc168f1e36ca93a908
+Merge: 8e89a65 4c98830
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 13:46:58 2018 -0400
+
+    rewrote turn_deal
+
+commit 8e89a65fcec7fedfc4967ada3a1093f9adc14b14
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Apr 22 13:40:55 2018 -0400
+
+    wrotwrote shuffle and begin_deal
+
+commit 4c98830f3caffe6716863133afb7eaff933040d9
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 12:31:39 2018 -0400
+
+    small helper stuff
+
+commit c5cfde146b9a10f533d550b5b02cc13a3088aa35
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 12:16:57 2018 -0400
+
+    allin, prevbets, details
+
+commit 867731f295e905abcccfe812306ecc796e28ceef
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 04:32:34 2018 -0400
+
+    gamestate do' rough draft
+
+commit 06e7cce52eb5b829e727bf5b6515ed99382ca8e7
+Author: Elaine Hwang <huangelaine310@dhcp-clara-796.eduroam.cornell.edu>
+Date:   Sun Apr 22 00:41:16 2018 -0400
+
+    make problems fixed
+
+commit 239f98370e6eeae7d577cebf4945abd026d504f3
+Author: kf283 <kf283@cornell.edu>
+Date:   Fri Apr 20 21:32:51 2018 -0400
+
+    unbound module error disappeared!
+
+commit 5e83604d230abf9dab6af547804866a5969a8edc
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 13:06:51 2018 -0400
+
+    changed checktypes script to include player
+
+commit 169ec64871b38ca620ec2850f59ebceee2fbd29a
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 12:16:16 2018 -0400
+
+    tweaked module dependency for gamstate
+
+commit cfede337ea4d747eda62e54daee3cc68934999b5
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 12:13:37 2018 -0400
+
+    fixed so make check works
+
+commit 640885861d873e4e44f5e33031339452f6fa3078
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 12:00:47 2018 -0400
+
+    made type player more comprehensive
+
+commit 30b0c41721cb386ec86f6f9b63272d27dbd4fed3
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 11:41:42 2018 -0400
+
+    removed yojson from checkenv script
+
+commit 029992dbcac58c99b3f9ec8c0eacb89711cc57d6
+Merge: 03916ef 0a9de69
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 11:39:45 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 03916ef9504d1bca03e7614d21195b93f8c6958e
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 11:39:27 2018 -0400
+
+    implemented functions in player.ml
+
+commit 598374a320cd3a39cf3cc1fcd034cf091b4f5c0e
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Apr 19 11:38:38 2018 -0400
+
+    implemented functions in player.ml
+
+commit 0a9de698caaa84d986c9071585057e2f0038dfe6
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Fri Apr 13 16:49:31 2018 -0400
+
+    updating calculate_score.mli
+
+commit b6f321b37d0b24502b94d7396244ef86d1816cc1
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Fri Apr 13 16:32:38 2018 -0400
+
+    added blank calculate-score.ml file
+
+commit 871a54ac8b871706575d5b7971e38a79e6147516
+Merge: cec85ed 9016a8c
+Author: Elaine Hwang <huangelaine310@dhcp-gs-5156.eduroam.cornell.edu>
+Date:   Wed Mar 28 21:06:48 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    not sure what is merging
+
+commit cec85edbe654bf93598e4c7db9410a1a234e2407
+Author: Elaine Hwang <huangelaine310@dhcp-gs-5156.eduroam.cornell.edu>
+Date:   Wed Mar 28 21:06:38 2018 -0400
+
+    zip
+
+commit 9016a8cd28de25cfa38d6b88dc270982d5936465
+Merge: ae183a7 0a04cb2
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Mar 25 15:12:29 2018 -0400
+
+    merge commit
+
+commit ae183a7fb49d2bbbac1a389efc976044858e7538
+Author: kf283 <kf283@cornell.edu>
+Date:   Sun Mar 25 15:11:09 2018 -0400
+
+    revised comments
+
+commit 0a04cb297772479cfe3683b8ee9464e8764cce0d
+Merge: 39b2096 4f7da60
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Thu Mar 22 20:28:56 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    not actually merging
+
+commit b7816a98091894fcd5713079aae644fca28957d2
+Merge: e96b4b1 4f7da60
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Mar 22 20:28:33 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit e96b4b1fc98c2ccdea92fd0f359de032b3161ab9
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Mar 22 20:28:11 2018 -0400
+
+    merge commit
+
+commit 39b209628f159dae7ae67792a937f70eda9ca2c4
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Thu Mar 22 20:26:44 2018 -0400
+
+    updating calculate_score.mli
+
+commit 4f7da6047065b4f0eafa4907e128b6e7c5e9b9bd
+Author: Elaine Hwang <huangelaine310@dhcp-clara-6007.eduroam.cornell.edu>
+Date:   Thu Mar 22 20:19:15 2018 -0400
+
+    updated comments
+
+commit a80d6857b0d2ce409d03cb7f6738de16edd3f086
+Author: bennysteepz <bds238@cornell.edu>
+Date:   Thu Mar 22 20:03:30 2018 -0400
+
+    committing with calculate score update
+
+commit 1a86ca49c54ac6c763340c1e730871b764b034a6
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Mar 22 19:53:16 2018 -0400
+
+    removed redundant method
+
+commit 436fbf517edc7cf7cf1e26d11a0fda6cf3101a82
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Thu Mar 22 15:36:42 2018 -0400
+
+    Delete gamestate_test.byte
+
+commit d37249e7bb02e5b3af92d2a5418bafa6bff32cb5
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Thu Mar 22 15:35:45 2018 -0400
+
+    ignores .byte
+
+commit a278cd85b32ea376f332f111b14dfecd23ef0e3b
+Merge: 3e7c471 beb620c
+Author: Elaine Hwang <huangelaine310@dhcp-uris-5077.eduroam.cornell.edu>
+Date:   Thu Mar 22 15:31:52 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    merge but shouldn't have effect.
+
+commit 3e7c4710bb59d795c3e7ee4983e9247c690b2dee
+Author: Elaine Hwang <huangelaine310@dhcp-uris-5077.eduroam.cornell.edu>
+Date:   Thu Mar 22 15:31:27 2018 -0400
+
+    added comments
+
+commit beb620c8d5b0a395a2a6644cd0c9e8d9a5198aa8
+Merge: aade98a fcb76e1
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Mar 22 00:25:12 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit aade98a44c3819b563b9791c678cbf502848c03b
+Author: kf283 <kf283@cornell.edu>
+Date:   Thu Mar 22 00:25:01 2018 -0400
+
+    merge commit
+
+commit fcb76e11df717e8cb91831398bc575d8adc921d1
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Wed Mar 21 23:21:04 2018 -0400
+
+    updated player modules
+
+commit 3336c666e78a67f08e0904133ed78c64203ab8de
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Wed Mar 21 15:10:07 2018 -0400
+
+    rename Gamestate.mli to gamestate.mli
+
+commit 4499c4581d33d095a024a4defe7014ceb4075735
+Author: Elaine Hwang <huangelaine310@dhcp-rhodes-2912.eduroam.cornell.edu>
+Date:   Wed Mar 21 15:09:22 2018 -0400
+
+    make files
+
+commit 44fdfdc0c03d6ab61e799a76989f2a1cdc1dc6c5
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Wed Mar 21 15:08:54 2018 -0400
+
+    create .gitignore; ignores build folder
+
+commit 9fd33c5c8e455d23e7e1eae7373362aab8ad7b0d
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 22:34:11 2018 -0400
+
+    added init player method
+
+commit 8fdbeddfed2fcb4585e9871b262a91500388612a
+Merge: 84ba6f3 18bde45
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 22:25:12 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+
+commit 84ba6f3c1d2516425178bff23582bcceff0be29a
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 22:24:53 2018 -0400
+
+    added in type declaraction for player.mli for future convenience
+
+commit 18bde4526f884bb8606039a937a00ed2584d4eae
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Tue Mar 20 22:07:45 2018 -0400
+
+    Update README.md
+
+commit 9813b843153595f51df3ff3139d820a8386e6d17
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Tue Mar 20 22:07:31 2018 -0400
+
+    Update README.md
+
+commit cbba4242854f5f760f4816bec7afda0949a3a1cb
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Tue Mar 20 22:07:10 2018 -0400
+
+    Update README.md
+
+commit 030c50f08f4c77854d6212ac9fc1a1d8e5b8a226
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Tue Mar 20 22:06:51 2018 -0400
+
+    Update README.md
+
+commit e3f556ab87d9de3db165dfc24f68e303e0a345a8
+Author: Kristi Fok <kf283@cornell.edu>
+Date:   Tue Mar 20 22:06:32 2018 -0400
+
+    Update README.md
+
+commit ab84fab63908ecdd33aeb4d32234d1bff60c732c
+Merge: eec17ff 2a263a1
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2565.eduroam.cornell.edu>
+Date:   Tue Mar 20 21:59:48 2018 -0400
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    
+    there should be nothing to merge.
+
+commit eec17ffd90f40b3be1a1d5ac462775251836f194
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2565.eduroam.cornell.edu>
+Date:   Tue Mar 20 21:59:38 2018 -0400
+
+    gamestate deck
+
+commit 2a263a196e83d5b8cee978250ad453c121a341f4
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 21:58:57 2018 -0400
+
+    added new comment for interface
+
+commit e61160c07eebc7d6e2924c4ab5824fc20fc44790
+Merge: c40be77 d52d0e6
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2565.eduroam.cornell.edu>
+Date:   Tue Mar 20 21:47:38 2018 -0400
+
+    merge branch 'master' of https://github.coecis.cornell.edu/yh467/3110texasholdem
+    merging player.mli
+
+commit c40be774041bde7e6e1bed8a11fa7c1e92830d53
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2565.eduroam.cornell.edu>
+Date:   Tue Mar 20 21:47:24 2018 -0400
+
+    gamestate
+
+commit d52d0e61a6aadd12e473a829f915e7a77587d3ee
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 21:44:46 2018 -0400
+
+    fixed a comment
+
+commit 1cb67db01c94043b66558bdacf738b907e750312
+Author: Elaine Hwang <huangelaine310@dhcp-clara-2565.eduroam.cornell.edu>
+Date:   Tue Mar 20 21:21:12 2018 -0400
+
+    not much change
+
+commit f58f2a76eb4b2920a5e255704978c2b7ac366afe
+Author: kfk383 <kristifok383@gmail.com>
+Date:   Tue Mar 20 21:00:40 2018 -0400
+
+    removed nested module
+
+commit 68d4b4e089eaac45d31ad430b0dccb50443af989
+Author: Elaine Hwang <huangelaine310@dhcp-gs-6199.eduroam.cornell.edu>
+Date:   Tue Mar 20 19:11:34 2018 -0400
+
+    unfinished gamestate.mli
+
+commit 86bf62f148449dbbd41269cfb4413ce6464ccb93
+Author: kf283 <kf283@cornell.edu>
+Date:   Tue Mar 20 10:40:54 2018 -0400
+
+    general outline of player module finished
+
+commit 9fbc559bba548c64ec4ea19a8cf7ed5efc228053
+Author: Eric Joshua Sun <ejs336@cornell.edu>
+Date:   Sun Mar 18 16:23:46 2018 -0400
+
+    init
+    
+    made gamestate
+
+commit f5223bcee5d0792600841db48fe820ba7c40b843
+Author: Elaine Hwang <yh467@cornell.edu>
+Date:   Sun Mar 18 16:14:56 2018 -0400
+
+    Initial commit

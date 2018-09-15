@@ -1,0 +1,2 @@
+true: package(oUnit),package(notty),package(notty.unix),package(str),package(ANSITerminal)
+<repl.*>: package(react),package(lwt),package(lambda-term)
